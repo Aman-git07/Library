@@ -1,0 +1,14 @@
+.footer-div {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background-color: #f0ead6;
+  text-align: center;
+  padding: 3px;
+  border-top: 3px solid #cbb280;
+  color: #6b4a39;
+  font-family: "Crimson Pro", serif;
+}

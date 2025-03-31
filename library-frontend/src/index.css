@@ -1,0 +1,45 @@
+:root {
+  font-family: "Crimson Pro", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  padding: 20px;
+}
+
+h2,
+h3,
+h6,
+a,
+input,
+p,
+label,
+legend,
+button {
+  font-family: "Dancing Script", cursive !important;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger !important;
+}
+h6 {
+  text-decoration: underline;
+}
+.nav-item {
+  border: 1px solid #cbb280;
+
+  border-radius: 10px;
+  background-color: #eedf7a;
+}
+
+.nav-item:hover {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+  transition: all 0.3s ease;
+}
+body {
+  background: linear-gradient(135deg, #f5eedc, #f0d9b5);
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+  font-family: "Crimson Pro", serif;
+}
